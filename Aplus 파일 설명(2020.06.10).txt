@@ -1,0 +1,28 @@
+(기본적인 파일은 제외함)
+com.cook.android.aplus
+FragmentCalendar: 일정 java 파일
+FragmentHome: 시간측정 기능(메인, 홈) java 파일
+FragmentPlanner: 플래너 java 파일
+FragmentStatistic: 통계 java 파일
+FragmentTimeTable: 시간표 java 파일
+
+res/drawable
+ic_menu_house: 홈 아이콘
+ic_menu_planner: 플래너 아이콘
+ic_menu_calendar: 일정 아이콘
+ic_menu_statistic: 통계 아이콘
+ic_menu_timetable: 시간표 아이콘
+item_color: 아이콘 색상 정보
+
+res/layout
+fragment_calendar: 일정 화면
+fragment_home: 시간측정(홈, 메인)화면
+fragment_planner: 플래너 화면
+fragment_statistic: 통계 화면
+fragment_timetable: 시간표 화면
+
+res/menu
+menu_bottomnavigationview: 하단 메뉴에 대한 정보를 가지고있음(하단메뉴 수정가능)
+
+res/values
+styles: colorPrimary 수정을 통해 액션바 색상 바꿀수있음
